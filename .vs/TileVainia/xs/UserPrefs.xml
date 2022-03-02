@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D135E33D-BBBB-4AE2-88F6-3E90E0832603}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="95" Column="82" />
+      <File FileName="Assets/Scripts/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelExit.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scripts/Menu.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a5b2f4d6-38be-40fa-8b47-960d584db310" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
